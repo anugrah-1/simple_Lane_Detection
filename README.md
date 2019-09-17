@@ -7,4 +7,4 @@ The goal of this project is to create a pipeline to detect lane lines on the roa
 
 ## Test Data
 Udacity provided test images and videos. Below is an sample image.
-![alt text](https://github.com/anugrah-1/simple_Lane_Detection/blob/master/test_images/solidWhiteCurve.jpg)
+![Screenshot](https://github.com/anugrah-1/simple_Lane_Detection/blob/master/test_images/solidWhiteCurve.jpg)
